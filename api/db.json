@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "swadhin Test",
+      "description": "testing for demo",
+      "userId": "108116540542124197252",
+      "id": 1
+    },
+    {
+      "title": "2nd stream",
+      "description": "testing",
+      "userId": "108116540542124197252",
+      "id": 2
+    }
+  ]
+}
